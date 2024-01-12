@@ -1,2 +1,1 @@
-## Welcome to kaffeekrank.de 
-### Hosted on GitHub Pages
+all you need is some good coffee
